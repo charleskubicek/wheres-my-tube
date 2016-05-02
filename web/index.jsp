@@ -4,8 +4,8 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <title>WheresMyTube.com</title>
-    <script type="text/javascript"
-            src="http://www.google.com/jsapi?key=ABQIAAAAANyf_1x1i_h8KT1GEqKZvxQOY00Tn5-R_voQhXk7sS84qtWqXBQQNZtoyxsSXaRFj9M6lbqv7gw51Q"></script>
+	<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=&sensor=true_or_false"
+	            type="text/javascript"></script>
     <script type="text/javascript">
         google.load("jquery", '1.3');
         google.load("maps", "2.x");

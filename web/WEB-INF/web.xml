@@ -8,13 +8,13 @@
   <context-param>
     <param-name>GoogleMapsKey</param-name>
       <!-- development key for http://wheresmytube.com -->
-    <param-value>ABQIAAAAANyf_1x1i_h8KT1GEqKZvxRFoOGN9_H1GR_I2S--_TGFnQAVVhSfY7Fai1dAf6J5t_NspbQmL898fg</param-value>
+    <param-value>AIzaSyAlnbg27xt7o1FM4Q_nIQVAPmFIZeXM7Zo</param-value>
   </context-param>
 
     <context-param>
     <param-name>GoogleMapsKeyBeta</param-name>
       <!-- development key for http://wheresmytube-beta.appspot.com -->
-    <param-value>ABQIAAAAANyf_1x1i_h8KT1GEqKZvxSueid8vftYV5fwyV-HlOvwBQ0F6xQgEQoTMCaxyW4tZAHMJ6Ya25F3bg</param-value>
+    <param-value>AIzaSyAlnbg27xt7o1FM4Q_nIQVAPmFIZeXM7Zo</param-value>
     </context-param>
 
     <display-name>wmt servlet</display-name>
